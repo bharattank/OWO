@@ -1,0 +1,384 @@
+@media only screen and (max-width:1199px){
+    .wellcome, .services-box, .portfolio, .about-us, .team, .blog, .contact {
+        padding-top: 60px;
+    }
+    .slider .carousel-caption{
+        top: 0;
+    }
+    .slider-caption .h1, .slider-caption .h2 {
+        font-size: 40px;
+    }
+    .slider-caption p {
+        font-size: 19px;
+        padding-top: 0;
+    }
+    .slider-caption .btn-slider {
+        font-size: 14px;
+        margin-top: 0;
+        padding: 5px 15px;
+    }
+    .about-box {
+        padding: 60px 15px;
+    }
+    .video-section {
+        margin-bottom: 30px;
+    }
+    .blog-box {
+        margin-bottom: 0;
+    }
+    .parallax-window {
+        padding-bottom: 32px;
+    }
+    .single-service h4 {
+        font-size: 19px;
+    }
+    .full-width {
+        padding-bottom: 30px;
+    }
+    .social-box ul li {
+        padding: 0;
+    }
+    .block-content .block-title a {
+        font-size: 24px;
+    }
+    .footer-content .footer-description, .footer-info .text a, .footer-content ul li a, .textfooter p, .about-us p {
+        font-size: 14px;
+    }
+    .footer-info .text {
+        font-size: 18px;
+    }
+    .footer-content ul li a{
+        padding: 0 0 15px;
+    }
+    .pop-box .fa-search-plus {
+        font-size: 38px;
+        top: calc(50% - 16px);
+    }
+}
+@media only screen and (max-width:991px){
+    .slider-caption .h1, .slider-caption .h2 {
+        font-size: 25px;
+    }
+    .slider-caption .btn-slider, .menu ul li a {
+        font-size: 14px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .slider-caption p {
+        font-size: 16px;
+    }
+    .mean-nav ul li, .slider{
+        padding: 0;
+    }
+    .full-width {
+        padding-bottom: 15px;
+    }
+    .menu ul li {
+        margin: 0 10px;
+    }
+    .wellcome-txt {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .footer-border p, .social-icon{
+        text-align: center;
+    }
+    .social-icon ul {
+        float: none;
+        margin: 20px auto;
+        width: 100%;
+    }
+    .video-section {
+        margin-top: 0px;
+    }
+    .mean-container .mean-nav ul li.mean-last a {
+        border-bottom: 1px solid #ccc;
+    }
+    .search-box1 {
+        top: 55px;
+    }
+    .search-box {
+        margin: -8px 0 0;
+    }
+    .menu ul {
+        margin: 16px 0 0;
+    }
+    .topbar-fixed {
+        height: 74px;
+    }
+    .slider .carousel {
+        margin-top: 58px;
+    }
+}
+@media only screen and (max-width:768px){
+    .services-bg h2 {
+        font-size: 24px;
+    }
+    .about-box {
+        padding: 60px 15px;
+    }
+    .portfolio-btn {
+        padding-top: 20px;
+    }
+    .team {
+        margin-top: 30px;
+    }
+}
+@media only screen and (max-width:767px){
+    button.btn.btn-default.search-icon {
+        position: absolute;
+        right: 62px;
+    }
+    .logo img {
+        width: 100%;
+        max-width: 100px;
+    }
+    .search-box .search-icon {
+        height: 35px;
+        padding: 6px;
+        width: 35px;
+    }
+    .mean-container .mean-nav {
+        margin-top: 53px;
+    }
+    .search-box1 {
+        top: 45px;
+        left: -241px;
+        width: 320px;
+    }
+    .slider .carousel {
+        margin-top: 55px;
+    }
+    .mean-container .mean-bar {
+        background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+        left: 0;
+        padding: 0;
+        position: absolute;
+        top: calc( 50% - 21px );
+        z-index: 2;
+    }
+    .mean-container a.meanmenu-reveal {
+        color: #444;
+        padding: 11px;
+        position: absolute;
+        right: 10px !important;
+    }
+    .mean-container .mean-nav{
+        background: #fff;
+        margin-top: 47px;
+    }
+    .mean-container .mean-nav ul li a {
+        border-top: 1px solid #ccc;
+        color: #444;
+        padding: 1em 3%;
+        width: 94%;
+    }
+    .mean-container .mean-nav ul li a:hover {
+        background-color: #009dcd;
+        color: #fff;
+    }
+    .mean-container a.meanmenu-reveal span {
+        background: #444;
+    }
+    .top-menu .navbar-toggle, .top-menu .navbar-toggle:hover, .top-menu .navbar-toggle:focus {
+        background-color: #009dcd;
+        border-color: #009dcd;
+    }
+    .top-menu .navbar-toggle span{
+        background: #fff;
+    }
+    .menu ul {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+    .menu ul li {
+        float: left;
+        margin: 0 0px;
+        width: 100%;
+        padding: 0 !important;
+        border-bottom: 1px solid #009dcd;
+    }
+    .menu ul li a {
+        padding: 8px 0;
+        text-align: left;
+        width: 100%;
+        text-indent: 15px;
+    }
+    .menu ul li a:hover{
+        background: #009dcd;
+        color: #fff;
+    }
+    .slider {
+        margin-top: 55px;
+    }
+    .menu ul li:hover, .menu ul li.active{
+        border-bottom: 1px solid #009dcd;
+    }
+    .search-box {
+        width: 100%;
+    }
+    .search-box1 {
+        display: none;
+        left: 0;
+        margin-top: 0;
+        padding: 10px 0px;
+        position: relative;
+        top: 0;
+        width: auto;
+    }
+    .search{
+        display: block !important;
+    }
+    .search-box .search-icon {
+        margin-left: 10px;
+    }
+    button.btn.btn-default.search-icon {
+        display: none;
+    }
+    .navbar-brand {
+        height: auto;
+    }
+}
+@media only screen and (max-width:699px){
+    .social-box ul li {
+        padding: 0 5px;
+    }
+    .our-txt h3, .block-content .block-title a {
+        font-size: 18px;
+    }
+    .pricing-section {
+        font-size: 40px;
+    }
+    .pricing-box-title {
+        font-size: 16px;
+    }
+    .slider-caption .h1, .slider-caption .h2 {
+        font-size: 25px;
+    }
+    .slider-caption p, .slider-caption .btn-slider {
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:640px){
+    .carousel-indicators{
+        display: none !important;
+    }
+    .slider .slider-arrow {
+        height: 30px;
+        width: 30px;
+    }
+    .slider .slider-arrow-left .fa {
+        left: -3px;
+        font-size: 20px;
+    }
+    .slider .slider-arrow-right .fa {
+        left: -3px;
+        font-size: 20px;
+    }
+    .slider-caption {
+        top: 20%;
+    }
+    .button {
+        font-size: 15px;
+        padding: 0 5px;
+    }
+    .footer-border p {
+        padding-top: 0px;
+    }
+}
+@media only screen and (max-width:599px){
+    .slider-caption {
+        top: 10%;
+    }
+    .slider-caption .h1, .slider-caption .h2 {
+        font-size: 18px;
+    }
+    .slider-caption p, .slider-caption .btn-slider {
+        font-size: 14px;
+    }
+    .portfolio .element-item {
+        clear: both;
+        width: 50%;
+    }
+}
+@media only screen and (max-width:500px){
+    .full-width{
+        width: 100%;
+        float: left;
+    }
+    .service{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-bottom: 5%;
+        margin-top: 30px;
+    }
+    .block-content, .date-time{
+        text-align: center;
+    }
+    .wellcome-txt{
+        font-size: 20px;
+    }
+    .footer-content-box ul {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .footer-content-box ul li{
+        width: auto;
+    }
+    .big-demo {
+        margin: 40px 0 0;
+    }
+    .filter-button-group.button-group.js-radio-button-group {
+        top: -40px;
+    }
+    .footer-content-box ul li {
+        width: 30%;
+    }
+    .footer-icon {
+        left: 38%;
+        top: 29%;
+    }
+}
+@media only screen and (max-width:480px){
+    .slider-caption .h1, .slider-caption .h2 {
+        font-size: 14px;
+    }
+    .slider-caption .btn-slider{
+        padding: 2px 10px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .slider-caption {
+        top: 30%;
+    }
+    .slider-caption p{
+        display: none;
+    }
+    .section-title {
+        margin:0px;
+    }
+    .service {
+        margin: 0px 2%;
+    }
+    .service .blue-box, .single-service {
+        top: 0px;
+    }
+    .video-section {
+        margin-top: 20px;
+    }
+    .portfolio .element-item {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width:320px){
+    .footer-icon {
+        font-size: 24px;
+    }
+    .slider-caption .btn-slider{
+        margin-top: 0px;
+    }
+}
